@@ -1,0 +1,181 @@
+html{
+    color: white;
+}
+.Header1{
+    position: relative;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.p1{
+    padding-top: 15px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    padding-left: 100px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+.content1{
+    background-image: url( https://tdtrung123.000webhostapp.com/anh/anh1.png);
+    min-height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+.p2{
+    position: absolute;
+    top: 400px;
+    right: 1046px;
+}
+.p3{
+    width: 400px;
+}
+button{
+    background-color: orange;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+}
+button:hover{
+    background-color: salmon;
+}
+.content2{
+    background-color: rgb(255, 85, 0);
+    height: 600px;
+}
+.col-1{
+    width: 29%;
+    float: left;
+    padding-left: 50px;
+    background-color: rgb(52, 52, 52);
+    margin-left: 10px;
+    text-align: center;
+}
+.Title1{
+    text-align: center;
+}
+.content3{
+    background-color: rgb(255, 85, 0);
+    height: 400px;
+}
+.material-symbols-outlined{
+font-size: 200px;
+}
+.Title2{
+    text-align: center;
+}
+.object3{
+    background-color: rgb(78, 48, 33);
+    height: 490px;
+    width: 100%;
+}
+.col2{
+    width: 50%;
+    float: left;
+    height: 490px;
+}
+.p4{
+    width: 400px;
+    position: absolute;
+    top: 1855px;
+    right: 129px;
+    font-size: larger;
+}
+.p5{
+    width: 400px;
+    position: absolute;
+    top: 2331px;
+    right: 946px;
+    font-size: larger;
+}
+.col3{
+    width: 50%;
+    float: left;
+}
+.object4{
+    background-color: rgb(78, 48, 33);
+    height: 490px;
+    float: left;
+    width: 100%;
+}
+.content6{
+    background-color: #333;
+    text-align: center;
+    font-size: larger;
+}
+.col4{
+    width: 30%;
+    float: left;
+    background-color: #333;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+.Title3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 600px;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 450px;
+}
+.content7{
+    background-image: url(https://tdtrung123.000webhostapp.com/anh/Herbet%20Simon.png);
+    min-height: 600px;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+    font-size: larger;
+}
+.object6{
+    width: 400px;
+    position: absolute;
+    top: 3199px;
+    right: 1011px;
+}
+.content8{
+    background-color: rgb(252, 96, 18);
+    min-height: 500px;
+}
+.Title4{
+    text-align: center;
+    padding-left: 450px;
+    font-size: larger;
+    width: 600px;
+    padding-top: 50px;
+}
+.search-container{
+    padding-left: 500px;
+}
+.Footer{
+    background-color: black;
+    min-height: 500px;
+}
+
+
+
+
+
